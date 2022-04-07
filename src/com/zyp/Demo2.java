@@ -8,5 +8,6 @@ public class Demo2 {
 
     public void show(){
         System.out.println("show方法");
+        System.out.println("==================");
     }
 }
